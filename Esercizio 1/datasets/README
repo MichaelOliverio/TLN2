@@ -2,6 +2,11 @@
 il materiale in questa directory è disponibile all'URL
   http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/
 
+Synset molto diversi danno valore 0, mentre la shortest_path_distance di nltk restituisce un valore
+
+syn1 = wn.synset('love.n.01')
+syn2 = wn.synset('arouse.v.07')
 
 
+lc_metric non torna
 
