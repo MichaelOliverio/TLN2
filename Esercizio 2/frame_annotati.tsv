@@ -13,6 +13,8 @@ determine   Synset('determine.v.03')
 rule out    Synset('rule_out.v.02')
 ##################################
 Concessive  Synset('concessive.a.01')
+Conceded_state_of_affairs   None
+Topic
 
 
 
