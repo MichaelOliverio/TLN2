@@ -11,7 +11,8 @@ Manner  Synset('manner.n.01')
 decide  Synset('decide.v.01')      
 determine   Synset('determine.v.03')
 rule out    Synset('rule_out.v.02')
-Concessive
+##################################
+Concessive  Synset('concessive.a.01')
 
 
 
