@@ -12,9 +12,35 @@ decide  Synset('decide.v.01')
 determine   Synset('determine.v.03')
 rule out    Synset('rule_out.v.02')
 ##################################
-Concessive  Synset('concessive.a.01')
-Conceded_state_of_affairs   None
-Topic
+Concessive  Synset('concessive.a.01')   FN
+Conceded_state_of_affairs   None    FE
+Topic   FE
+################################
+Competition Synset('competition.n.03')  FN
+Participant_1   None    FE
+Participant_2   None    FE
+Participants    Synset('player.n.01')   FE
+Competition Synset('contest.n.01')  FE
+Score   Synset('score.n.03')    FE
+Rank    Synset('Rank.v.01') FE
+Prize   Synset('prize.n.01')    FE
+Venue   Synset('venue.n.01')    FE
+Place   Synset('place.n.02')    FE
+Manner  Synset('manner.n.01')   FE
+Time Synset('time.n.03')    FE
+Duration Synset('duration.n.01')    FE
+Purpose Synset('purpose.n.01')  FE
+Degree Synset('degree.n.01')    FE
+Frequency Synset('frequency.n.01')  FE
+competitive Synset('competitive.a.01')  LU
+competition Synset('competition.n.03')  LU
+competitor Synset('rival.n.01') LU
+compete Synset('compete.v.01')  LU
+challenge   Synset('challenge.n.02')    LU
+rivalry Synset('competition.n.03')  LU
+rival   Synset('rival.n.01')    LU
+##################################
+Fairness_evaluation
 
 
 
