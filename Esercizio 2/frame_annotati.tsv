@@ -41,6 +41,39 @@ rivalry Synset('competition.n.03')  LU
 rival   Synset('rival.n.01')    LU
 ##################################
 Fairness_evaluation
-
+Actor   Synset('actor.n.02')    FE
+Ground
+Affected_party
+Degree  Synset('degree.n.07')   FE
+Parameter Synset('parameter.n.02') FE
+Manner  Synset('manner.n.02')   FE
+fair    Synset('fair.a.01') LU
+unfair  Synset('unfair.a.01')   LU
+unjust  Synset('unfair.a.01')   LU
+inequitable Synset('inequitable.a.01')  LU
+fairly  Synset('fairly.r.02')       LU
+unfairly    Synset('unfairly.r.01') LU
+unjustly    Synset('unjustly.r.01') LU
+#######################################
+Process_continue
+Depictive   Synset('delineative.s.01')  FE
+Manner  Synset('manner.n.01')   FE
+Duration    Synset('duration.n.01') FE
+Event   Synset('event.n.01')    FE
+Place   Synset('place.n.02')    FE
+Explanation Synset('explanation.n.02')  FE
+Time    Synset('time.n.03') FE
+Next_subevent
+Circumstances   Synset('context.n.02')  FE
+Concessive  Synset('concessive.a.01')   FE
+continue    Synset('continue.v.01') LU
+ongoing Synset('ongoing.s.01')  LU
+persist Synset('prevail.v.03')  LU
+drag_on Synset('drag_on.v.01')  LU
+go_on   Synset('continue.v.01') LU
+persistence Synset('continuity.n.03')   LU
+proceed Synset('continue.v.01') LU
+underway    Synset('afoot.s.02')    LU
+on  Synset('on.r.02')   LU
 
 
