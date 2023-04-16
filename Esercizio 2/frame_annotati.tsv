@@ -75,5 +75,40 @@ persistence Synset('continuity.n.03')   LU
 proceed Synset('continue.v.01') LU
 underway    Synset('afoot.s.02')    LU
 on  Synset('on.r.02')   LU
+##################################
+Intentionally_act
+Act Synset('act.v.01')  FE
+Agent   Synset('agent.n.01')    FE
+Place   Synset('place.n.02')    FE
+Purpose Synset('purpose.n.01')  FE
+Time    Synset('time.n.01') FE
+Means   Synset('means.n.01')    FE
+Manner  Synset('manner.n.01')   FE
+Domain  Synset('sphere.n.01')   FE
+Frequency   Synset('frequency.n.01')    FE
+Synset('period.n.02')   Synset('period.n.02')   FE
+Result  Synset('consequence.n.01')  FE
+Particular_iteration    Synset('iteration.n.03')    FE
+Explanation Synset('explanation.n.01')  FE
+Event_description   Synset('description.n.01')  FE
+Apparent_conclusion Synset('conclusion.n.02')   FE
+action  Synset('action.n.01')   LU
+do  Synset('perform.v.01')  LU
+step    Synset('measure.n.01')  LU
+achieve Synset('achieve.v.01')  LU
+act Synset('act.v.01')  LU
+doing   Synset('perform.v.01')  LU
+activity    Synset('activity.n.01') LU
+perform Synset('perform.v.01')  LU
+carry_out   Synset('follow_through.v.02')   LU
+conduct Synset('carry_through.v.01')  LU
+execute Synset('carry_through.v.01')    LU
+engage  Synset('prosecute.v.03')    LU
+means   Synset('measure.n.01')  LU
+act Synset('act.n.02')  LU
+move    Synset('move.n.01') LU
+actor   Synset('actor.n.02')    LU
+agent   Synset('agent.n.02')    LU
+deed    Synset('act.n.02')  LU
 
 
