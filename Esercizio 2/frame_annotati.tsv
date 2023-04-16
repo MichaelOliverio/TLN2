@@ -110,5 +110,17 @@ move    Synset('move.n.01') LU
 actor   Synset('actor.n.02')    LU
 agent   Synset('agent.n.02')    LU
 deed    Synset('act.n.02')  LU
+########################
+History Synset('history.n.02')  FN
+Topic   Synset('topic.n.02')    FE
+Domain  Synset('sphere.n.01')   FE
+End_time    Synset('end.n.02')  FE
+Start_time  Synset('start.n.01')    FE
+Time_span   Synset('span.n.01') FE
+Duration    Synset('duration.n.01') FE
+Time    Synset('time.n.01') FE
+history Synset('history.n.02')  LU
+
+
 
 
