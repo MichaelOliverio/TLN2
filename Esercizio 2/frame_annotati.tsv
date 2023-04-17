@@ -1,20 +1,87 @@
-Deciding    Synset('decide.v.01')
-Cognizer    (no synset)
-Decision    Synset('decision.n.01')
-Place       Synset('topographic_point.n.01') (non sono sicuro)
-Possibilities   Synset('possibility.n.02')
-Time    Synset('time.n.01')
-Circumstance    Synset('circumstance.n.01')
-Explanation Synset('explanation.n.03')
-Inherent_purpose    Synset('purpose.n.01') (non sono sicuro)
-Manner  Synset('manner.n.01')
-decide  Synset('decide.v.01')      
-determine   Synset('determine.v.03')
-rule out    Synset('rule_out.v.02')
+Deciding    Synset('decide.v.01')   FN
+Cognizer    None    FE
+Decision    Synset('decision.n.01') FE
+Place       Synset('topographic_point.n.01')    FE
+Possibilities   Synset('possibility.n.02')  FE
+Time    Synset('time.n.01') FE
+Circumstance    Synset('circumstance.n.01') FE
+Explanation Synset('explanation.n.03')  FE
+Inherent_purpose    Synset('purpose.n.01')  FE
+Manner  Synset('manner.n.01')   FE
+decide  Synset('decide.v.01')      LU
+determine   Synset('determine.v.03')    LU
+rule out    Synset('rule_out.v.02') LU
 ##################################
 Concessive  Synset('concessive.a.01')   FN
-Conceded_state_of_affairs   None    FE
-Topic   FE
+Conceded_state_of_affairs   Synset('situation.n.01')    FE
+Topic   Synset('subject.n.01')  FE
+Main_assertion  Synset('affirmation.n.02')  LU
+despite Synset('despite.n.02')  LU
+in spite of Synset('despite.n.02')  LU
+though  Synset('though.r.01')   LU
+although    None LU
+while   Synset('while.n.01')    LU
+if  None LU
+much as Synset('much_as.r.01')  LU
+################################
+Emptying    Synset('emptying.n.01') FN
+Agent   Synset('agent.n.01')    FE
+Theme   Synset('subject.n.01')  FE
+Source  Synset('source.v.02')   FE
+Path    Synset('path.n.02') FE
+Goal    Synset('goal.n.01') FE
+Degree  Synset('degree.n.01')   FE
+Depictive   Synset('delineative.s.01')  FE
+Manner  Synset('manner.n.01')   FE
+Means   Synset('mean.v.07') FE
+Result  Synset('result.v.01')   FE
+Instrument  Synset('instrument.n.02')   FE
+clear   Synset('clear.v.12')    LU
+drain   Synset('drain.n.01')    LU
+empty   Synset('empty.v.01')    LU
+purge   Synset('purge.n.02')    LU
+strip   Synset('clean.v.07')    LU
+divest  Synset('deprive.v.01')  LU
+rid Synset('rid.v.01')  LU
+disembowel  Synset('disembowel.v.01')   LU
+skin    Synset('skin.v.04') LU
+core    Synset('core.v.01') LU
+################################
+Change_resistance   Synset('resistance.n.01')   FN
+Agent   Synset('agent.n.01')    FE
+Patient Synset('patient.a.01')  FE
+Depictive   Synset('delineative.s.01')  FE
+Result  Synset('consequence.n.01')  FE
+Means   Synset('means.n.01')    FE
+Manner  Synset('manner.n.01')   FE
+Time    Synset('time.n.01') FE
+Place   Synset('topographic_point.n.01')    FE
+Cause   Synset('cause.n.01')    FE
+Attack  Synset('attack.n.05')   FE
+buttress    Synset('buttress.n.01') LU
+bulwark Synset('bulwark.v.01')
+brace   Synset('brace.n.01')
+################################
+Performers_and_roles    performer
+Audience    Synset('audience.n.01') FE
+Medium  Synset('medium.n.01')   FE
+Performance Synset('performance.n.02')  FE
+Performer   Synset('performer.n.01')    FE
+Score   Synset('score.n.02')    FE
+Script  Synset('script.n.01')   FE
+Type    Synset('type.v.02') FE
+Role    Synset('character.n.04')    FE
+Time    Synset('time.n.01') FE
+Place   Synset('topographic_point.n.01')    FE
+star    Synset('star.n.04') LU
+act Synset('act.v.03')  LU
+play    Synset('play.n.01') LU
+be  Synset('embody.v.02')   LU
+star    Synset('star.n.04') LU  
+co-star.n   Synset('co-star.n.01')
+co-star.v   Synset('co-star.v.01')
+lead    Synset('star.n.04')
+star.v  Synset('star.v.02') LU
 ################################
 Competition Synset('competition.n.03')  FN
 Participant_1   None    FE
