@@ -1,3 +1,4 @@
 1) lcs dello stesso synset come ad esempio tiger non corrisponde a quello della libreria
 2) jerusalem, israel, italy non hanno iperonimi come fanno ad avere depth != 0 con la funzione della libreria
 3) lcs student professor
+4) estendere lesk con framenet
