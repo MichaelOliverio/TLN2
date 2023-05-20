@@ -1,0 +1,3 @@
+- Cosa utilizzare come contesto per il Lesk? 
+  per il momento è stato usato l'intero testo, sembra dare performance migliori rispetto ad usare solamente il titolo
+- In small nasari non trovo alcun babelnet id
