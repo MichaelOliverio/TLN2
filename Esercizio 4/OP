@@ -1,2 +1,4 @@
 - in fvm usiamo il tokenizer per le multiword?
-- capire perchè la lemmatizzazione di "dei" diventa "di il"
+- capire perchè la lemmatizzazione di "dei" diventa "di il" (capire ordine cose)
+- accuratezza
+- come visualizzare i vettori dei documenti (PCA?)

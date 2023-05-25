@@ -1,4 +1,4 @@
-1) inserire POS tag nella disambiguazione specie nei LU
+1) inserire POS tag nella disambiguazione specie nei LU (filtrare termine con pos tag)
 2) gestire contesto wordnet nel caso in cui il termine sia multi word expression e non ci sia synset associato(quindi parser per determinare reggente oppure a mano)
 3) abbreviazioni aggiungere al contesto
 4) aggiungere lexems delle lu al contesto delle lu
