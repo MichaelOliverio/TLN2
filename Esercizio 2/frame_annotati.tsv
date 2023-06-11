@@ -1,3 +1,4 @@
+word    syn     fn_tag
 Deciding    Synset('decide.v.01')   FN
 Cognizer    None    FE
 Decision    Synset('decision.n.01') FE
@@ -122,7 +123,7 @@ fairly  Synset('fairly.r.02')       LU
 unfairly    Synset('unfairly.r.01') LU
 unjustly    Synset('unjustly.r.01') LU
 #######################################
-Process_continue
+Process_continueTime
 Depictive   Synset('delineative.s.01')  FE
 Manner  Synset('manner.n.01')   FE
 Duration    Synset('duration.n.01') FE

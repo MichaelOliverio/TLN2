@@ -1,0 +1,189 @@
+word,syn,fn_tag
+Deciding,decide.v.01,FN
+Cognizer,None,FE
+Decision,decision.n.01,FE
+Place,topographic_point.n.01,FE
+Possibilities,possibility.n.02,FE
+Time,time.n.01,FE
+Circumstance,circumstance.n.01,FE
+Explanation,explanation.n.03,FE
+Inherent_purpose,purpose.n.01,FE
+Manner,manner.n.01,FE
+decide.v,decide.v.01,LU
+determine.v,determine.v.03,LU
+rule out.v,rule_out.v.02,LU
+None, None, None
+Concessive,concessive.a.01,FN
+Conceded_state_of_affairs,situation.n.01,FE
+Topic,subject.n.01,FE
+Main_assertion,affirmation.n.02,LU
+despite,despite.n.02,LU
+though,though.r.01,LU
+although,None,LU
+while,while.n.01,LU
+if,None,LU
+much as,much_as.r.01,LU
+None, None, None
+Emptying,emptying.n.01,FN
+Agent,agent.n.01,FE
+Theme,subject.n.01,FE
+Source,source.v.02,FE
+Path,path.n.02,FE
+Goal,goal.n.01,FE
+Degree,degree.n.01,FE
+Depictive,delineative.s.01,FE
+Manner,manner.n.01,FE
+Means,mean.v.07,FE
+Result,result.v.01,FE
+Instrument,instrument.n.02,FE
+clear,clear.v.12,LU
+drain,drain.n.01,LU
+empty,empty.v.01,LU
+purge,purge.n.02,LU
+strip,clean.v.07,LU
+divest,deprive.v.01,LU
+rid,rid.v.01,LU
+disembowel,disembowel.v.01,LU
+skin,skin.v.04,LU
+core,core.v.01,LU
+None, None, None
+Change_resistance,resistance.n.01,FN
+Agent,agent.n.01,FE
+Patient,patient.a.01,FE
+Depictive,delineative.s.01,FE
+Result,consequence.n.01,FE
+Means,means.n.01,FE
+Manner,manner.n.01,FE
+Time,time.n.01,FE
+Place,topographic_point.n.01,FE
+Cause,cause.n.01,FE
+Attack,attack.n.05,FE
+buttress,buttress.n.01,LU
+bulwark,bulwark.v.01,
+brace,brace.n.01,
+None, None, None
+Performers_and_roles,None, FN
+Audience,audience.n.01,FE
+Medium,medium.n.01,FE
+Performance,performance.n.02,FE
+Performer,performer.n.01,FE
+Score,score.n.02,FE
+Script,script.n.01,FE
+Type,type.v.02,FE
+Role,character.n.04,FE
+Time,time.n.01,FE
+Place,topographic_point.n.01,FE
+star,star.n.04,LU
+act,act.v.03,LU
+play,play.n.01,LU
+be,embody.v.02,LU
+star,star.n.04,LU
+co-star.n,co-star.n.01,
+co-star.v,co-star.v.01,
+lead,star.n.04,
+star.v,star.v.02,LU
+None, None, None
+Competition,competition.n.03,FN
+Participant_1,None,FE
+Participant_2,None,FE
+Participants,player.n.01,FE
+Competition,contest.n.01,FE
+Score,score.n.03,FE
+Rank,rank.v.01,FE
+Prize,prize.n.01,FE
+Venue,venue.n.01,FE
+Place,place.n.02,FE
+Manner,manner.n.01,FE
+Time,time.n.03,FE
+Duration,duration.n.01,FE
+Purpose,purpose.n.01,FE
+Degree,degree.n.01,FE
+Frequency,frequency.n.01,FE
+competitive,competitive.a.01,LU
+competition,competition.n.03,LU
+competitor,rival.n.01,LU
+compete,compete.v.01,LU
+challenge,challenge.n.02,LU
+rivalry,competition.n.03,LU
+rival,rival.n.01,LU
+None, None, None
+Fairness_evaluation, None, FN
+Actor,actor.n.02,FE
+Ground, None, FE
+Affected_party, None, FE
+Degree,degree.n.07,FE
+Parameter,parameter.n.02,FE
+Manner,manner.n.02,FE
+fair,fair.a.01,LU
+unfair,unfair.a.01,LU
+unjust,unfair.a.01,LU
+inequitable,inequitable.a.01,LU
+fairly,fairly.r.02,LU
+unfairly,unfairly.r.01,LU
+unjustly,unjustly.r.01,LU
+None, None, None
+Process_continueTime, None, FE
+Depictive,delineative.s.01,FE
+Manner,manner.n.01,FE
+Duration,duration.n.01,FE
+Event,event.n.01,FE
+Place,place.n.02,FE
+Explanation,explanation.n.02,FE
+Time,time.n.03,FE
+Next_subevent, None, FE
+Circumstances,context.n.02,FE
+Concessive,concessive.a.01,FE
+continue,continue.v.01,LU
+ongoing,ongoing.s.01,LU
+persist,prevail.v.03,LU
+drag_on,drag_on.v.01,LU
+go_on,continue.v.01,LU
+persistence,continuity.n.03,LU
+proceed,continue.v.01,LU
+underway,afoot.s.02,LU
+on,on.r.02,LU
+None, None, None
+Intentionally_act, None, None
+Act,act.v.01,FE
+Agent,agent.n.01,FE
+Place,place.n.02,FE
+Purpose,purpose.n.01,FE
+Time,time.n.01,FE
+Means,means.n.01,FE
+Manner,manner.n.01,FE
+Domain,sphere.n.01,FE
+Frequency,frequency.n.01,FE
+Synset('period.n.02'),period.n.02,FE
+Result,consequence.n.01,FE
+Particular_iteration,iteration.n.03,FE
+Explanation,explanation.n.01,FE
+Event_description,description.n.01,FE
+Apparent_conclusion,conclusion.n.02,FE
+action,action.n.01,LU
+do,perform.v.01,LU
+step,measure.n.01,LU
+achieve,achieve.v.01,LU
+act,act.v.01,LU
+doing,perform.v.01,LU
+activity,activity.n.01,LU
+perform,perform.v.01,LU
+carry_out,follow_through.v.02,LU
+conduct,carry_through.v.01,LU
+execute,carry_through.v.01,LU
+engage,prosecute.v.03,LU
+means,measure.n.01,LU
+act,act.n.02,LU
+move,move.n.01,LU
+actor,actor.n.02,LU
+agent,agent.n.02,LU
+deed,act.n.02,LU
+None, None, None
+History,history.n.02,FN
+Topic,topic.n.02,FE
+Domain,sphere.n.01,FE
+End_time,end.n.02,FE
+Start_time,start.n.01,FE
+Time_span,span.n.01,FE
+Duration,duration.n.01,FE
+Time,time.n.01,FE
+history,history.n.02,LU
