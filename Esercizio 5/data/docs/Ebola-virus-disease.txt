@@ -1,7 +1,5 @@
-# https://en.wikipedia.org/wiki/Ebola_virus_disease
-
-
 Ebola virus disease
+
 Ebola virus disease (EVD), or simply Ebola, is a viral haemorrhagic fever of humans and other primates caused by ebolaviruses. Signs and symptoms typically start between two days and three weeks after contracting the virus with a fever, sore throat, muscular pain, and headaches. Vomiting, diarrhoea and rash usually follow, along with decreased function of the liver and kidneys. At this time, some people begin to bleed both internally and externally. The disease has a high risk of death, killing 25% to 90% of those infected, with an average of about 50%. This is often due to low blood pressure from fluid loss, and typically follows six to 16 days after symptoms appear.
 
 The virus spreads through direct contact with body fluids, such as blood from infected humans or other animals. Spread may also occur from contact with items recently contaminated with bodily fluids. Spread of the disease through the air between primates, including humans, has not been documented in either laboratory or natural conditions. Semen or breast milk of a person after recovery from EVD may carry the virus for several weeks to months. Fruit bats are believed to be the normal carrier in nature, able to spread the virus without being affected by it. Other diseases such as malaria, cholera, typhoid fever, meningitis and other viral haemorrhagic fevers may resemble EVD. Blood samples are tested for viral RNA, viral antibodies or for the virus itself to confirm the diagnosis.
