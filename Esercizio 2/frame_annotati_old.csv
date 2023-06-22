@@ -1,0 +1,190 @@
+word,syn,fn_tag
+Deciding,Synset('decide.v.01'),FN
+Cognizer,None,FE
+Decision,Synset('decision.n.01'),FE
+Place,Synset('topographic_point.n.01'),FE
+Possibilities,Synset('possibility.n.02'),FE
+Time,Synset('time.n.01'),FE
+Circumstance,Synset('circumstance.n.01'),FE
+Explanation,Synset('explanation.n.03'),FE
+Inherent_purpose,Synset('purpose.n.01'),FE
+Manner,Synset('manner.n.01'),FE
+decide.v,Synset('decide.v.01'),LU
+determine.v,Synset('determine.v.03'),LU
+rule out.v,Synset('rule_out.v.02'),LU
+None, None, None
+Concessive,Synset('concessive.a.01'),FN
+Conceded_state_of_affairs,Synset('situation.n.01'),FE
+Topic,Synset('subject.n.01'),FE
+Main_assertion,Synset('affirmation.n.02'),LU
+despite,Synset('despite.n.02'),LU
+in spite,of,Synset('despite.n.02'),LU
+though,Synset('though.r.01'),LU
+although,None,LU
+while,Synset('while.n.01'),LU
+if,None,LU
+much as,Synset('much_as.r.01'),LU
+None, None, None
+Emptying,Synset('emptying.n.01'),FN
+Agent,Synset('agent.n.01'),FE
+Theme,Synset('subject.n.01'),FE
+Source,Synset('source.v.02'),FE
+Path,Synset('path.n.02'),FE
+Goal,Synset('goal.n.01'),FE
+Degree,Synset('degree.n.01'),FE
+Depictive,Synset('delineative.s.01'),FE
+Manner,Synset('manner.n.01'),FE
+Means,Synset('mean.v.07'),FE
+Result,Synset('result.v.01'),FE
+Instrument,Synset('instrument.n.02'),FE
+clear,Synset('clear.v.12'),LU
+drain,Synset('drain.n.01'),LU
+empty,Synset('empty.v.01'),LU
+purge,Synset('purge.n.02'),LU
+strip,Synset('clean.v.07'),LU
+divest,Synset('deprive.v.01'),LU
+rid,Synset('rid.v.01'),LU
+disembowel,Synset('disembowel.v.01'),LU
+skin,Synset('skin.v.04'),LU
+core,Synset('core.v.01'),LU
+None, None, None
+Change_resistance,Synset('resistance.n.01'),FN
+Agent,Synset('agent.n.01'),FE
+Patient,Synset('patient.a.01'),FE
+Depictive,Synset('delineative.s.01'),FE
+Result,Synset('consequence.n.01'),FE
+Means,Synset('means.n.01'),FE
+Manner,Synset('manner.n.01'),FE
+Time,Synset('time.n.01'),FE
+Place,Synset('topographic_point.n.01'),FE
+Cause,Synset('cause.n.01'),FE
+Attack,Synset('attack.n.05'),FE
+buttress,Synset('buttress.n.01'),LU
+bulwark,Synset('bulwark.v.01')
+brace,Synset('brace.n.01')
+None, None, None
+Performers_and_roles,None, FN
+Audience,Synset('audience.n.01'),FE
+Medium,Synset('medium.n.01'),FE
+Performance,Synset('performance.n.02'),FE
+Performer,Synset('performer.n.01'),FE
+Score,Synset('score.n.02'),FE
+Script,Synset('script.n.01'),FE
+Type,Synset('type.v.02'),FE
+Role,Synset('character.n.04'),FE
+Time,Synset('time.n.01'),FE
+Place,Synset('topographic_point.n.01'),FE
+star,Synset('star.n.04'),LU
+act,Synset('act.v.03'),LU
+play,Synset('play.n.01'),LU
+be,Synset('embody.v.02'),LU
+star,Synset('star.n.04'),LU
+co-star.n,Synset('co-star.n.01')
+co-star.v,Synset('co-star.v.01')
+lead,Synset('star.n.04')
+star.v,Synset('star.v.02'),LU
+None, None, None
+Competition,Synset('competition.n.03'),FN
+Participant_1,None,FE
+Participant_2,None,FE
+Participants,Synset('player.n.01'),FE
+Competition,Synset('contest.n.01'),FE
+Score,Synset('score.n.03'),FE
+Rank,Synset('Rank.v.01'),FE
+Prize,Synset('prize.n.01'),FE
+Venue,Synset('venue.n.01'),FE
+Place,Synset('place.n.02'),FE
+Manner,Synset('manner.n.01'),FE
+Time,Synset('time.n.03'),FE
+Duration,Synset('duration.n.01'),FE
+Purpose,Synset('purpose.n.01'),FE
+Degree,Synset('degree.n.01'),FE
+Frequency,Synset('frequency.n.01'),FE
+competitive,Synset('competitive.a.01'),LU
+competition,Synset('competition.n.03'),LU
+competitor,Synset('rival.n.01'),LU
+compete,Synset('compete.v.01'),LU
+challenge,Synset('challenge.n.02'),LU
+rivalry,Synset('competition.n.03'),LU
+rival,Synset('rival.n.01'),LU
+None, None, None
+Fairness_evaluation, None, FN
+Actor,Synset('actor.n.02'),FE
+Ground, None, FE
+Affected_party, None, FE
+Degree,Synset('degree.n.07'),FE
+Parameter,Synset('parameter.n.02'),FE
+Manner,Synset('manner.n.02'),FE
+fair,Synset('fair.a.01'),LU
+unfair,Synset('unfair.a.01'),LU
+unjust,Synset('unfair.a.01'),LU
+inequitable,Synset('inequitable.a.01'),LU
+fairly,Synset('fairly.r.02'),LU
+unfairly,Synset('unfairly.r.01'),LU
+unjustly,Synset('unjustly.r.01'),LU
+None, None, None
+Process_continueTime, None, FE
+Depictive,Synset('delineative.s.01'),FE
+Manner,Synset('manner.n.01'),FE
+Duration,Synset('duration.n.01'),FE
+Event,Synset('event.n.01'),FE
+Place,Synset('place.n.02'),FE
+Explanation,Synset('explanation.n.02'),FE
+Time,Synset('time.n.03'),FE
+Next_subevent, None, FE
+Circumstances,Synset('context.n.02'),FE
+Concessive,Synset('concessive.a.01'),FE
+continue,Synset('continue.v.01'),LU
+ongoing,Synset('ongoing.s.01'),LU
+persist,Synset('prevail.v.03'),LU
+drag_on,Synset('drag_on.v.01'),LU
+go_on,Synset('continue.v.01'),LU
+persistence,Synset('continuity.n.03'),LU
+proceed,Synset('continue.v.01'),LU
+underway,Synset('afoot.s.02'),LU
+on,Synset('on.r.02'),LU
+None, None, None
+Intentionally_act, None, None
+Act,Synset('act.v.01'),FE
+Agent,Synset('agent.n.01'),FE
+Place,Synset('place.n.02'),FE
+Purpose,Synset('purpose.n.01'),FE
+Time,Synset('time.n.01'),FE
+Means,Synset('means.n.01'),FE
+Manner,Synset('manner.n.01'),FE
+Domain,Synset('sphere.n.01'),FE
+Frequency,Synset('frequency.n.01'),FE
+Synset('period.n.02'),Synset('period.n.02'),FE
+Result,Synset('consequence.n.01'),FE
+Particular_iteration,Synset('iteration.n.03'),FE
+Explanation,Synset('explanation.n.01'),FE
+Event_description,Synset('description.n.01'),FE
+Apparent_conclusion,Synset('conclusion.n.02'),FE
+action,Synset('action.n.01'),LU
+do,Synset('perform.v.01'),LU
+step,Synset('measure.n.01'),LU
+achieve,Synset('achieve.v.01'),LU
+act,Synset('act.v.01'),LU
+doing,Synset('perform.v.01'),LU
+activity,Synset('activity.n.01'),LU
+perform,Synset('perform.v.01'),LU
+carry_out,Synset('follow_through.v.02'),LU
+conduct,Synset('carry_through.v.01'),LU
+execute,Synset('carry_through.v.01'),LU
+engage,Synset('prosecute.v.03'),LU
+means,Synset('measure.n.01'),LU
+act,Synset('act.n.02'),LU
+move,Synset('move.n.01'),LU
+actor,Synset('actor.n.02'),LU
+agent,Synset('agent.n.02'),LU
+deed,Synset('act.n.02'),LU
+None, None, None
+History,Synset('history.n.02'),FN
+Topic,Synset('topic.n.02'),FE
+Domain,Synset('sphere.n.01'),FE
+End_time,Synset('end.n.02'),FE
+Start_time,Synset('start.n.01'),FE
+Time_span,Synset('span.n.01'),FE
+Duration,Synset('duration.n.01'),FE
+Time,Synset('time.n.01'),FE
+history,Synset('history.n.02'),LU
